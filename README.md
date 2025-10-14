@@ -1,2 +1,2 @@
 # StocksPipeline
-A mini project focused on applying data engineering concepts and tools, such as Apache Kafka, Airlfow and Spark. 
+Mini project involving the use of Apache Kafka, Spark and Airflow. Designed and implement an ETL pipeline that ingest data from real-time stock data from a public API. The pipeline transforms and stores the stream data into PostgreSQL which would be used for batch processing. Containerised Kafka, Spark, Airflow, and PostgreSQL to ensure consistent environments, simplify deployment, and enable portability across systems. This project integrates theoretical knowledge gained through DataCamp courses as well
